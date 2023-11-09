@@ -1,4 +1,4 @@
-# Dessert Recipes App
+# Fetch-home-assignment app
 
 This iOS app allows users to browse and view details of dessert recipes using TheMealDB API. Users can see a list of dessert meals and select one to view its detailed information, including name, instructions, and ingredients with measurements.
 
@@ -18,7 +18,7 @@ This iOS app allows users to browse and view details of dessert recipes using Th
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/dessert-recipes-app.git
+    git clone https://github.com/sapoepsilon/Fetch-home-assignment.git
 
 Navigate to the cloned directory:
 
