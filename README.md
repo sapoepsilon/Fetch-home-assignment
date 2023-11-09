@@ -22,11 +22,11 @@ Clone the repository:
 
 Navigate to the cloned directory:
 
-    cd dessert-recipes-app
+    cd Fetch-home-assignment
 
 Open the project in Xcode:
 
-    open DessertRecipesApp.xcodeproj
+    open Fetch-home-assignment.xcodeproj
 
 Build and run the app in your simulator or on your device.
 
