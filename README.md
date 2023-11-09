@@ -8,12 +8,6 @@ This iOS app allows users to browse and view details of dessert recipes using Th
 - Show detailed information for a selected dessert.
 - Handle null or empty values gracefully.
 
-## Requirements
-
-- iOS 13.0+
-- Xcode 13.0+
-- Swift 5+
-
 ## Installation
 
 Clone the repository:
